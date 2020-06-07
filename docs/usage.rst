@@ -11,7 +11,8 @@ The command line tool can be invoked with:
                                   [-lr LOCAL_RULES]
                                   [-c CONFIGURATION [CONFIGURATION ...]] [--fix]
                                   [-fp FIX_PHASE] [-j JUNIT] [-of {vsg,syntastic}]
-                                  [-b] [-oc OUTPUT_CONFIGURATION] [-v]
+                                  [-b] [-oc OUTPUT_CONFIGURATION]
+                                  [-rc RULE_CONFIGURATION] [-v] [-ap]
     
     Analyzes VHDL files for style guide violations. Reference documentation is
     located at: http://vhdl-style-guide.readthedocs.io/en/latest/index.html
@@ -31,11 +32,14 @@ The command line tool can be invoked with:
                             Extract Junit file
       -of {vsg,syntastic}, --output_format {vsg,syntastic}
                             Sets the output format.
-      -b, --backup          Creates copy of input file for comparison with fixed
+      -b, --backup          Creates a copy of input file for comparison with fixed
                             version.
       -oc OUTPUT_CONFIGURATION, --output_configuration OUTPUT_CONFIGURATION
-                            Output configuration file name
+                            Write configuration to file name.
+      -rc RULE_CONFIGURATION, --rule_configuration RULE_CONFIGURATION
+                            Display configuration of a rule
       -v, --version         Displays version information
+      -ap, --all_phases     Do not stop when a violation is detected.
 
 **Command Line Options**
 
@@ -67,6 +71,7 @@ The command line tool can be invoked with:
 |                               |   vsg -- standard VSG output                    |
 |                               |   syntastic -- format compatible with the       |
 |                               |   syntastic VIM module                          |
+|                               |   json -- violations in a JSON format           |
 +-------------------------------+-------------------------------------------------+
 | --backup                      | Creates a copy of the input file before         |
 |                               | applying any fixes.  This can be used to        |
@@ -80,6 +85,9 @@ The command line tool can be invoked with:
 | --rule_configuration          | Displays the configuration of a rule.           |
 +-------------------------------+-------------------------------------------------+
 | --version                     | Displays the version of VSG.                    |
++-------------------------------+-------------------------------------------------+
+| --all-phases                  | Executes all phases without stopping if a       |
+|                               | violation is found.                             |
 +-------------------------------+-------------------------------------------------+
 
 

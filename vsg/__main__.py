@@ -34,6 +34,7 @@ def parse_command_line_arguments():
     parser.add_argument('-oc', '--output_configuration', default=None, action='store', help='Write configuration to file name.')
     parser.add_argument('-rc', '--rule_configuration', default=None, action='store', help='Display configuration of a rule')
     parser.add_argument('-v', '--version', default=False, action='store_true', help='Displays version information')
+    parser.add_argument('-ap', '--all_phases', default=False, action='store_true', help='Do not stop when a violation is detected.')
 
     if len(sys.argv) == 1:
         parser.print_help()
@@ -287,7 +288,7 @@ def main():
             oRules.fix(commandLineArguments.fix_phase)
             write_vhdl_file(oVhdlFile)
 
-        oRules.check_rules()
+        oRules.check_rules(commandLineArguments.all_phases)
         oRules.report_violations(commandLineArguments.output_format)
         fExitStatus = update_exit_status(fExitStatus, oRules)
 

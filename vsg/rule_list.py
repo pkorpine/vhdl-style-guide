@@ -137,12 +137,14 @@ class rule_list():
                     if oRule.phase == phase and oRule.subphase == subphase and not oRule.disable:
                         oRule.fix(self.oVhdlFile)
 
-    def check_rules(self):
+    def check_rules(self, bAllPhases=False):
         '''
         Analyzes all rules in increasing phase order.
         If there is a violation in a phase, analysis is halted.
 
-        Parameters:  None
+        Parameters:
+
+            bAllPhases : (boolean)
         '''
         self.iNumberRulesRan = 0
         iFailures = 0
@@ -154,7 +156,7 @@ class rule_list():
                     iFailures += len(oRule.violations)
                     self.iNumberRulesRan += 1
                     self.lastPhaseRan = phase
-            if iFailures > 0:
+            if iFailures > 0 and not bAllPhases:
                 self.violations = True
                 break
 
