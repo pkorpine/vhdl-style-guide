@@ -19,6 +19,7 @@ class testCodeTags(unittest.TestCase):
 
         dExpected = []
         dExpected.append(utils.add_violation(13))
+        dExpected.append(utils.add_violation(25))
         oRule.analyze(oFile)
         self.assertEqual(oRule.violations, dExpected)
 
@@ -27,11 +28,27 @@ class testCodeTags(unittest.TestCase):
 
         dExpected = []
         dExpected.append(utils.add_violation(15))
+        dExpected.append(utils.add_violation(27))
+        oRule.analyze(oFile)
+        self.assertEqual(oRule.violations, dExpected)
+
+    def test_rule_process_014(self):
+        oRule = process.rule_014()
+
+        dExpected = []
+        dExpected.append(utils.add_violation(19))
         oRule.analyze(oFile)
         self.assertEqual(oRule.violations, dExpected)
 
     def test_rule_architecture_024(self):
         oRule = architecture.rule_024()
+
+        dExpected = []
+        oRule.analyze(oFile)
+        self.assertEqual(oRule.violations, dExpected)
+
+    def test_rule_process_002(self):
+        oRule = process.rule_002()
 
         dExpected = []
         oRule.analyze(oFile)

@@ -89,3 +89,17 @@ Multiple identifiers can be added to a single tag..
 In the above example, process_016 will only be disabled for the line with the process keyword.
 Successive processes without labels will be flagged by process_016.
 
+Sequential next line exclusions will also be honored:
+
+.. code-block:: vhdl
+
+   -- vsg-disable-next-line process_002
+   -- vsg-disable-next-line process_016
+   process(write, read, full) is
+   begin
+     a <= write;
+     b <= read;
+     -- vsg-disable-next-line process_018
+   end process;
+
+In the above example, both process_002 and process_016 will be disabled for the line starting with the process keyword.
