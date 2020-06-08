@@ -29,6 +29,7 @@ def parse_command_line_arguments():
     parser.add_argument('--fix', default=False, action='store_true', help='Fix issues found')
     parser.add_argument('-fp', '--fix_phase', default=10, action='store', help='Fix issues up to and including this phase')
     parser.add_argument('-j', '--junit', action='store', help='Extract Junit file')
+    parser.add_argument('-js', '--json', action='store', help='Extract JSON file')
     parser.add_argument('-of', '--output_format', action='store', default='vsg', choices=['vsg', 'syntastic'], help='Sets the output format.')
     parser.add_argument('-b', '--backup', default=False, action='store_true', help='Creates a copy of input file for comparison with fixed version.')
     parser.add_argument('-oc', '--output_configuration', default=None, action='store', help='Write configuration to file name.')
@@ -270,6 +271,8 @@ def main():
 
     display_rule_configuration(commandLineArguments, configuration)
 
+    dViolations = {}
+
     for iIndex, sFileName in enumerate(commandLineArguments.filename):
         oVhdlFile = vhdlFile.vhdlFile(read_vhdlfile(sFileName))
         oVhdlFile.filename = sFileName
@@ -295,9 +298,16 @@ def main():
         if commandLineArguments.junit:
             oJunitTestsuite.add_testcase(oRules.extract_junit_testcase(sFileName))
 
+        if commandLineArguments.json:
+            dViolations[sFileName] = oRules.extract_violation_dictionary()
+
     if commandLineArguments.junit:
         oJunitFile.add_testsuite(oJunitTestsuite)
         write_junit_xml_file(oJunitFile)
+
+    if commandLineArguments.json:
+        with open(commandLineArguments.json, 'w') as oFile:
+            oFile.write(json.dumps(dViolations, indent=2))
 
 
     sys.exit(fExitStatus)

@@ -1,0 +1,3914 @@
+{
+  "violations": [
+    {
+      "rule": "architecture_003",
+      "linenumber": 215,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "architecture_015",
+      "linenumber": 215,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "architecture_016",
+      "linenumber": 282,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "architecture_017",
+      "linenumber": 282,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 217,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 222,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 226,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 240,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 243,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 250,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 254,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 257,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 260,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 263,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 266,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 269,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_026",
+      "linenumber": 276,
+      "solution": "Align colon with right most colon."
+    },
+    {
+      "rule": "architecture_027",
+      "linenumber": 217,
+      "solution": "Inconsistent alignment of inline comments."
+    },
+    {
+      "rule": "architecture_027",
+      "linenumber": 222,
+      "solution": "Inconsistent alignment of inline comments."
+    },
+    {
+      "rule": "architecture_027",
+      "linenumber": 226,
+      "solution": "Inconsistent alignment of inline comments."
+    },
+    {
+      "rule": "assert_001",
+      "linenumber": 287,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "assert_001",
+      "linenumber": 291,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "assert_001",
+      "linenumber": 295,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "assert_001",
+      "linenumber": 299,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "case_001",
+      "linenumber": 503,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "case_001",
+      "linenumber": 505,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "case_001",
+      "linenumber": 513,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "case_001",
+      "linenumber": 521,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "case_001",
+      "linenumber": 530,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "case_001",
+      "linenumber": 538,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "case_001",
+      "linenumber": 555,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "case_001",
+      "linenumber": 571,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "case_001",
+      "linenumber": 573,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "case_007",
+      "linenumber": 503,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "case_009",
+      "linenumber": 573,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "case_010",
+      "linenumber": 573,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 184,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 189,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 196,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 216,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 221,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 225,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 229,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 230,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 231,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 232,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 233,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 234,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 235,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 236,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 237,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 238,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 239,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 242,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 245,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 247,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 249,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 253,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 256,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 259,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 262,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 265,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 268,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 275,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 283,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 284,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 285,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 286,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 290,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 294,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 298,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 303,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 304,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 305,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 306,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 307,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 308,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 309,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 310,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 311,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 312,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 313,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 314,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 315,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 316,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 317,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 318,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 319,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 320,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 334,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 335,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 340,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 343,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 353,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 354,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 355,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 356,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 366,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 367,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 368,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 378,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 379,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 389,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 390,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 393,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 394,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 395,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 396,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 406,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 407,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 408,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 409,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 410,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 411,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 417,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 423,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 424,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 431,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 435,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 438,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 444,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 454,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 455,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 456,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 457,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 460,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 468,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 479,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 487,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 488,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 489,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 490,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 576,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 577,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 578,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 579,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 585,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 586,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 587,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 588,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 589,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 590,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 603,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 604,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 605,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "comment_010",
+      "linenumber": 606,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 359,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 364,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 371,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 376,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 382,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 387,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 391,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 580,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 581,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 582,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 583,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 584,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 607,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 608,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 609,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 610,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 611,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 612,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 613,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 614,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 615,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 616,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_001",
+      "linenumber": 617,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 580,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 581,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 582,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 583,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 584,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 607,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 608,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 609,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 610,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 611,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 612,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 613,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 614,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 615,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 616,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_005",
+      "linenumber": 617,
+      "solution": "Remove label on concurrent assignment."
+    },
+    {
+      "rule": "concurrent_006",
+      "linenumber": 580,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "concurrent_006",
+      "linenumber": 607,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "concurrent_008",
+      "linenumber": 359,
+      "solution": "Inconsistent alignment of comments in group of lines."
+    },
+    {
+      "rule": "concurrent_008",
+      "linenumber": 364,
+      "solution": "Inconsistent alignment of comments in group of lines."
+    },
+    {
+      "rule": "concurrent_008",
+      "linenumber": 382,
+      "solution": "Inconsistent alignment of comments in group of lines."
+    },
+    {
+      "rule": "concurrent_008",
+      "linenumber": 387,
+      "solution": "Inconsistent alignment of comments in group of lines."
+    },
+    {
+      "rule": "concurrent_008",
+      "linenumber": 391,
+      "solution": "Inconsistent alignment of comments in group of lines."
+    },
+    {
+      "rule": "concurrent_008",
+      "linenumber": 580,
+      "solution": "Inconsistent alignment of comments in group of lines."
+    },
+    {
+      "rule": "entity_015",
+      "linenumber": 209,
+      "solution": "The \"end\" keyword, \"entity\" keyword and entity name need to be on the same line."
+    },
+    {
+      "rule": "entity_017",
+      "linenumber": 175,
+      "solution": "Inconsistent alignment of \":\" in generic or port declaration of entity."
+    },
+    {
+      "rule": "entity_017",
+      "linenumber": 179,
+      "solution": "Inconsistent alignment of \":\" in generic or port declaration of entity."
+    },
+    {
+      "rule": "entity_017",
+      "linenumber": 185,
+      "solution": "Inconsistent alignment of \":\" in generic or port declaration of entity."
+    },
+    {
+      "rule": "entity_017",
+      "linenumber": 190,
+      "solution": "Inconsistent alignment of \":\" in generic or port declaration of entity."
+    },
+    {
+      "rule": "entity_017",
+      "linenumber": 197,
+      "solution": "Inconsistent alignment of \":\" in generic or port declaration of entity."
+    },
+    {
+      "rule": "entity_018",
+      "linenumber": 175,
+      "solution": "Inconsistent alignment of \":=\" in generic or port declaration of entity."
+    },
+    {
+      "rule": "entity_018",
+      "linenumber": 179,
+      "solution": "Inconsistent alignment of \":=\" in generic or port declaration of entity."
+    },
+    {
+      "rule": "entity_018",
+      "linenumber": 191,
+      "solution": "Inconsistent alignment of \":=\" in generic or port declaration of entity."
+    },
+    {
+      "rule": "entity_020",
+      "linenumber": 175,
+      "solution": "Inconsistent alignment of inline comments."
+    },
+    {
+      "rule": "entity_020",
+      "linenumber": 179,
+      "solution": "Inconsistent alignment of inline comments."
+    },
+    {
+      "rule": "entity_020",
+      "linenumber": 185,
+      "solution": "Inconsistent alignment of inline comments."
+    },
+    {
+      "rule": "entity_020",
+      "linenumber": 190,
+      "solution": "Inconsistent alignment of inline comments."
+    },
+    {
+      "rule": "entity_020",
+      "linenumber": 197,
+      "solution": "Inconsistent alignment of inline comments."
+    },
+    {
+      "rule": "generate_001",
+      "linenumber": 357,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_001",
+      "linenumber": 362,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_001",
+      "linenumber": 369,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_001",
+      "linenumber": 374,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_001",
+      "linenumber": 380,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_001",
+      "linenumber": 385,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_002",
+      "linenumber": 357,
+      "solution": "Ensure a single space exists before the colon."
+    },
+    {
+      "rule": "generate_002",
+      "linenumber": 362,
+      "solution": "Ensure a single space exists before the colon."
+    },
+    {
+      "rule": "generate_002",
+      "linenumber": 369,
+      "solution": "Ensure a single space exists before the colon."
+    },
+    {
+      "rule": "generate_002",
+      "linenumber": 374,
+      "solution": "Ensure a single space exists before the colon."
+    },
+    {
+      "rule": "generate_002",
+      "linenumber": 380,
+      "solution": "Ensure a single space exists before the colon."
+    },
+    {
+      "rule": "generate_002",
+      "linenumber": 385,
+      "solution": "Ensure a single space exists before the colon."
+    },
+    {
+      "rule": "generate_003",
+      "linenumber": 365,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "generate_003",
+      "linenumber": 377,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "generate_003",
+      "linenumber": 388,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "generate_004",
+      "linenumber": 357,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "generate_004",
+      "linenumber": 369,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "generate_004",
+      "linenumber": 380,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "generate_006",
+      "linenumber": 358,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_006",
+      "linenumber": 363,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_006",
+      "linenumber": 370,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_006",
+      "linenumber": 375,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_006",
+      "linenumber": 381,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_006",
+      "linenumber": 386,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_007",
+      "linenumber": 360,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_007",
+      "linenumber": 365,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_007",
+      "linenumber": 372,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_007",
+      "linenumber": 377,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_007",
+      "linenumber": 383,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_007",
+      "linenumber": 388,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generate_011",
+      "linenumber": 360,
+      "solution": "Add a label for the \"end generate\"."
+    },
+    {
+      "rule": "generate_011",
+      "linenumber": 365,
+      "solution": "Add a label for the \"end generate\"."
+    },
+    {
+      "rule": "generate_011",
+      "linenumber": 372,
+      "solution": "Add a label for the \"end generate\"."
+    },
+    {
+      "rule": "generate_011",
+      "linenumber": 377,
+      "solution": "Add a label for the \"end generate\"."
+    },
+    {
+      "rule": "generate_011",
+      "linenumber": 383,
+      "solution": "Add a label for the \"end generate\"."
+    },
+    {
+      "rule": "generate_011",
+      "linenumber": 388,
+      "solution": "Add a label for the \"end generate\"."
+    },
+    {
+      "rule": "generic_002",
+      "linenumber": 174,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generic_004",
+      "linenumber": 175,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generic_004",
+      "linenumber": 176,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generic_004",
+      "linenumber": 177,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generic_004",
+      "linenumber": 178,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "generic_007",
+      "linenumber": 175,
+      "solution": "Change generic name to lowercase."
+    },
+    {
+      "rule": "generic_007",
+      "linenumber": 176,
+      "solution": "Change generic name to lowercase."
+    },
+    {
+      "rule": "generic_007",
+      "linenumber": 177,
+      "solution": "Change generic name to lowercase."
+    },
+    {
+      "rule": "generic_007",
+      "linenumber": 178,
+      "solution": "Change generic name to lowercase."
+    },
+    {
+      "rule": "generic_007",
+      "linenumber": 179,
+      "solution": "Change generic name to lowercase."
+    },
+    {
+      "rule": "generic_009",
+      "linenumber": 174,
+      "solution": "Change \"generic\" keyword to lowercase."
+    },
+    {
+      "rule": "generic_010",
+      "linenumber": 179,
+      "solution": "Closing parenthesis must be on a line by itself."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 324,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 325,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 338,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 339,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 399,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 400,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 416,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 439,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 440,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 445,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 446,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 461,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 462,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 469,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 470,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 480,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 481,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 544,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 558,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 593,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_001",
+      "linenumber": 594,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 324,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 325,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 338,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 339,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 399,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 400,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 416,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 439,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 440,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 445,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 446,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 448,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 461,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 462,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 464,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 469,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 470,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 480,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 481,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 544,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 558,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 593,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_002",
+      "linenumber": 594,
+      "solution": "Enclose boolean expression in ()'s."
+    },
+    {
+      "rule": "if_012",
+      "linenumber": 448,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_012",
+      "linenumber": 464,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_013",
+      "linenumber": 328,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_013",
+      "linenumber": 346,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_013",
+      "linenumber": 549,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_013",
+      "linenumber": 564,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_013",
+      "linenumber": 596,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 331,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 332,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 349,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 350,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 402,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 403,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 430,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 442,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 443,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 450,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 451,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 466,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 467,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 477,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 478,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 483,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 484,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 553,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 569,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 598,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_014",
+      "linenumber": 599,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "if_015",
+      "linenumber": 443,
+      "solution": "Ensure only a single space exists between the \"end\" and \"if\" keywords."
+    },
+    {
+      "rule": "if_015",
+      "linenumber": 451,
+      "solution": "Ensure only a single space exists between the \"end\" and \"if\" keywords."
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 332,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 350,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 403,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 430,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 443,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 451,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 467,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 478,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 484,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_030",
+      "linenumber": 599,
+      "solution": "Add a blank line after the \"end if\""
+    },
+    {
+      "rule": "if_031",
+      "linenumber": 324,
+      "solution": "Add a blank line before the \"if\""
+    },
+    {
+      "rule": "if_031",
+      "linenumber": 338,
+      "solution": "Add a blank line before the \"if\""
+    },
+    {
+      "rule": "if_031",
+      "linenumber": 399,
+      "solution": "Add a blank line before the \"if\""
+    },
+    {
+      "rule": "if_031",
+      "linenumber": 416,
+      "solution": "Add a blank line before the \"if\""
+    },
+    {
+      "rule": "if_031",
+      "linenumber": 544,
+      "solution": "Add a blank line before the \"if\""
+    },
+    {
+      "rule": "if_031",
+      "linenumber": 558,
+      "solution": "Add a blank line before the \"if\""
+    },
+    {
+      "rule": "if_031",
+      "linenumber": 593,
+      "solution": "Add a blank line before the \"if\""
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 12,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 13,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 14,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 17,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 20,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 26,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 27,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 29,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 30,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 37,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 39,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 40,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 43,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 44,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 46,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 54,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 56,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 58,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 63,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 65,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 74,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 75,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 76,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 78,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 82,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 83,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 106,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 107,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 110,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 115,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 116,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 117,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 118,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 125,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 127,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 131,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 132,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 133,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 134,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 135,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 136,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 139,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 142,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 144,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 148,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 191,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 192,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 194,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 195,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 200,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 494,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 508,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 509,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 510,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 515,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 518,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 523,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 527,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 532,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 535,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 538,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 540,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 544,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 551,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 558,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 559,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 561,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "length_001",
+      "linenumber": 567,
+      "solution": "Reduce line to less than 120 characters"
+    },
+    {
+      "rule": "library_003",
+      "linenumber": 156,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "library_008",
+      "linenumber": 157,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "library_008",
+      "linenumber": 158,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "library_008",
+      "linenumber": 159,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "port_002",
+      "linenumber": 180,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 181,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 182,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 183,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 185,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 186,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 187,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 188,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 190,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 191,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 192,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 193,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 194,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 195,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 197,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 198,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 199,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 200,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 201,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 202,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 203,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 204,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 205,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 206,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_004",
+      "linenumber": 207,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_007",
+      "linenumber": 181,
+      "solution": "Change the number of spaces after the \"in\" keyword to four spaces."
+    },
+    {
+      "rule": "port_007",
+      "linenumber": 182,
+      "solution": "Change the number of spaces after the \"in\" keyword to four spaces."
+    },
+    {
+      "rule": "port_007",
+      "linenumber": 183,
+      "solution": "Change the number of spaces after the \"in\" keyword to four spaces."
+    },
+    {
+      "rule": "port_007",
+      "linenumber": 188,
+      "solution": "Change the number of spaces after the \"in\" keyword to four spaces."
+    },
+    {
+      "rule": "port_007",
+      "linenumber": 191,
+      "solution": "Change the number of spaces after the \"in\" keyword to four spaces."
+    },
+    {
+      "rule": "port_007",
+      "linenumber": 192,
+      "solution": "Change the number of spaces after the \"in\" keyword to four spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 185,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 186,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 187,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 190,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 193,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 194,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 195,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 197,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 198,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 199,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 200,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 201,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 202,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 203,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 204,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 205,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 206,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_008",
+      "linenumber": 207,
+      "solution": "Change the number of spaces after the \"out\" keyword to three spaces."
+    },
+    {
+      "rule": "port_012",
+      "linenumber": 181,
+      "solution": "Remove default assignment in port declaration"
+    },
+    {
+      "rule": "port_012",
+      "linenumber": 182,
+      "solution": "Remove default assignment in port declaration"
+    },
+    {
+      "rule": "port_012",
+      "linenumber": 183,
+      "solution": "Remove default assignment in port declaration"
+    },
+    {
+      "rule": "port_012",
+      "linenumber": 188,
+      "solution": "Remove default assignment in port declaration"
+    },
+    {
+      "rule": "port_012",
+      "linenumber": 191,
+      "solution": "Remove default assignment in port declaration"
+    },
+    {
+      "rule": "port_012",
+      "linenumber": 192,
+      "solution": "Remove default assignment in port declaration"
+    },
+    {
+      "rule": "port_015",
+      "linenumber": 208,
+      "solution": "Ensure proper indentation."
+    },
+    {
+      "rule": "port_017",
+      "linenumber": 180,
+      "solution": "Change \"port\" keyword to lowercase."
+    },
+    {
+      "rule": "process_001",
+      "linenumber": 321,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_001",
+      "linenumber": 336,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_001",
+      "linenumber": 397,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_001",
+      "linenumber": 412,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_001",
+      "linenumber": 436,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_001",
+      "linenumber": 458,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_001",
+      "linenumber": 491,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_001",
+      "linenumber": 591,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_003",
+      "linenumber": 323,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_003",
+      "linenumber": 337,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_003",
+      "linenumber": 398,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_003",
+      "linenumber": 415,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_003",
+      "linenumber": 437,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_003",
+      "linenumber": 459,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_003",
+      "linenumber": 493,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_003",
+      "linenumber": 592,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_006",
+      "linenumber": 333,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_006",
+      "linenumber": 351,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_006",
+      "linenumber": 404,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_006",
+      "linenumber": 434,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_006",
+      "linenumber": 452,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_006",
+      "linenumber": 485,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_006",
+      "linenumber": 574,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_006",
+      "linenumber": 601,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "process_011",
+      "linenumber": 333,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_011",
+      "linenumber": 434,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_020",
+      "linenumber": 413,
+      "solution": "Fix indentation of sensitivity list."
+    },
+    {
+      "rule": "process_020",
+      "linenumber": 414,
+      "solution": "Fix indentation of sensitivity list."
+    },
+    {
+      "rule": "process_020",
+      "linenumber": 492,
+      "solution": "Fix indentation of sensitivity list."
+    },
+    {
+      "rule": "process_022",
+      "linenumber": 323,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_022",
+      "linenumber": 337,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_022",
+      "linenumber": 398,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_022",
+      "linenumber": 415,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_022",
+      "linenumber": 437,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_022",
+      "linenumber": 459,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_022",
+      "linenumber": 493,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_022",
+      "linenumber": 592,
+      "solution": "Insert blank line below."
+    },
+    {
+      "rule": "process_023",
+      "linenumber": 333,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "process_023",
+      "linenumber": 351,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "process_023",
+      "linenumber": 404,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "process_023",
+      "linenumber": 434,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "process_023",
+      "linenumber": 452,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "process_023",
+      "linenumber": 485,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "process_023",
+      "linenumber": 574,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "process_023",
+      "linenumber": 601,
+      "solution": "Insert blank line above."
+    },
+    {
+      "rule": "process_024",
+      "linenumber": 321,
+      "solution": "Ensure a single space exists between process label and :."
+    },
+    {
+      "rule": "process_024",
+      "linenumber": 436,
+      "solution": "Ensure a single space exists between process label and :."
+    },
+    {
+      "rule": "process_026",
+      "linenumber": 321,
+      "solution": "Ensure a single blank line between the end of the sensitivity list and the next non-blank line."
+    },
+    {
+      "rule": "process_027",
+      "linenumber": 323,
+      "solution": "Ensure a single blank line between the last non-blank line and the \"begin\" keyword."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 416,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 418,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 425,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 441,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 446,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 462,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 471,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 482,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 494,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 505,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 513,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 521,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 530,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 538,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 555,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 572,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "process_035",
+      "linenumber": 595,
+      "solution": "Inconsistent alignment of comments within process."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 326,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 329,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 341,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 342,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 344,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 345,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 347,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 348,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 401,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 418,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 419,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 420,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 421,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 422,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 425,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 426,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 427,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 428,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 429,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 432,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 433,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 441,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 447,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 449,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 463,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 465,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 471,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 472,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 473,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 474,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 475,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 476,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 482,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 494,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 495,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 496,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 497,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 498,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 499,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 500,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 501,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 502,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 506,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 507,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 508,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 509,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 510,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 511,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 514,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 515,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 516,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 517,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 518,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 519,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 522,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 523,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 524,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 525,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 526,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 527,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 528,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 531,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 532,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 533,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 534,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 535,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 536,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 539,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 540,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 541,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 542,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 543,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 545,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 546,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 547,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 548,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 550,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 551,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 552,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 556,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 557,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 559,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 560,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 561,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 562,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 563,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 565,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 566,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 567,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 568,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 572,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 595,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 597,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_001",
+      "linenumber": 600,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 341,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 344,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 347,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 418,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 425,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 471,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 494,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 506,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 514,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 522,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 531,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 539,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 545,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 550,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 556,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 559,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "sequential_005",
+      "linenumber": 565,
+      "solution": "Inconsistent alignment of \"<=\" in group of lines."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 217,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 218,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 219,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 220,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 222,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 223,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 224,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 226,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 227,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 228,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 240,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 241,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 243,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 244,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 246,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 248,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 250,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 251,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 252,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 254,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 255,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 257,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 258,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 260,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 261,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 263,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 264,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 266,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 267,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 269,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 270,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 271,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 272,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 273,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 274,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 276,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 277,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 278,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 279,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 280,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_001",
+      "linenumber": 281,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "signal_004",
+      "linenumber": 269,
+      "solution": "Change signal identifiers name to lowercase."
+    },
+    {
+      "rule": "signal_004",
+      "linenumber": 270,
+      "solution": "Change signal identifiers name to lowercase."
+    },
+    {
+      "rule": "signal_004",
+      "linenumber": 271,
+      "solution": "Change signal identifiers name to lowercase."
+    },
+    {
+      "rule": "signal_004",
+      "linenumber": 272,
+      "solution": "Change signal identifiers name to lowercase."
+    },
+    {
+      "rule": "signal_004",
+      "linenumber": 276,
+      "solution": "Change signal identifiers name to lowercase."
+    },
+    {
+      "rule": "signal_004",
+      "linenumber": 277,
+      "solution": "Change signal identifiers name to lowercase."
+    },
+    {
+      "rule": "signal_004",
+      "linenumber": 278,
+      "solution": "Change signal identifiers name to lowercase."
+    },
+    {
+      "rule": "signal_004",
+      "linenumber": 279,
+      "solution": "Change signal identifiers name to lowercase."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 217,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 218,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 219,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 220,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 222,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 223,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 226,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 227,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 228,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 240,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 241,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 246,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 251,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 252,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 254,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 255,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 263,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 264,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 266,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 267,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 269,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 270,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 271,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 272,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 273,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 274,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 276,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 277,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 278,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 279,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 280,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "signal_007",
+      "linenumber": 281,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "variable_001",
+      "linenumber": 322,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "variable_007",
+      "linenumber": 322,
+      "solution": "Remove default assignment."
+    },
+    {
+      "rule": "variable_assignment_001",
+      "linenumber": 327,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "variable_assignment_001",
+      "linenumber": 330,
+      "solution": "Invalid indentation."
+    },
+    {
+      "rule": "whitespace_005",
+      "linenumber": 412,
+      "solution": "Remove spaces after open (."
+    },
+    {
+      "rule": "whitespace_005",
+      "linenumber": 436,
+      "solution": "Remove spaces after open (."
+    },
+    {
+      "rule": "whitespace_005",
+      "linenumber": 491,
+      "solution": "Remove spaces after open (."
+    },
+    {
+      "rule": "whitespace_006",
+      "linenumber": 414,
+      "solution": "Remove spaces before close )."
+    },
+    {
+      "rule": "whitespace_006",
+      "linenumber": 436,
+      "solution": "Remove spaces before close )."
+    },
+    {
+      "rule": "whitespace_006",
+      "linenumber": 492,
+      "solution": "Remove spaces before close )."
+    },
+    {
+      "rule": "whitespace_008",
+      "linenumber": 191,
+      "solution": "Remove spaces after \"std_logic_vector\"."
+    },
+    {
+      "rule": "whitespace_008",
+      "linenumber": 195,
+      "solution": "Remove spaces after \"std_logic_vector\"."
+    },
+    {
+      "rule": "whitespace_008",
+      "linenumber": 202,
+      "solution": "Remove spaces after \"std_logic_vector\"."
+    },
+    {
+      "rule": "whitespace_008",
+      "linenumber": 207,
+      "solution": "Remove spaces after \"std_logic_vector\"."
+    },
+    {
+      "rule": "whitespace_008",
+      "linenumber": 243,
+      "solution": "Remove spaces after \"std_logic_vector\"."
+    },
+    {
+      "rule": "whitespace_008",
+      "linenumber": 244,
+      "solution": "Remove spaces after \"std_logic_vector\"."
+    },
+    {
+      "rule": "whitespace_008",
+      "linenumber": 248,
+      "solution": "Remove spaces after \"std_logic_vector\"."
+    },
+    {
+      "rule": "whitespace_008",
+      "linenumber": 260,
+      "solution": "Remove spaces after \"std_logic_vector\"."
+    },
+    {
+      "rule": "whitespace_008",
+      "linenumber": 261,
+      "solution": "Remove spaces after \"std_logic_vector\"."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 191,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 195,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 207,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 240,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 241,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 243,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 244,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 248,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 260,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 261,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 295,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 296,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 322,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 325,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 501,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 505,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 506,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 514,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 516,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 521,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 522,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 525,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 530,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 531,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 533,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 539,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 541,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 559,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 561,
+      "solution": "Add a single space before and/or after math operator."
+    },
+    {
+      "rule": "whitespace_011",
+      "linenumber": 565,
+      "solution": "Add a single space before and/or after math operator."
+    }
+  ]
+}
