@@ -235,6 +235,9 @@ class line():
         # Code tags
         self.hasCodeTag = False
         self.codeTags = {}
+        # Next Line Code Tags
+        self.hasNextLineCodeTag = False
+        self.nextLineCodeTags = []
         # After attributes
         self.hasAfterKeyword = False
 

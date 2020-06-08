@@ -61,6 +61,7 @@ class vhdlFile():
             classify.assert_statement(dVars, oLine)
 
             classify.code_tags(dVars, oLine, oLinePrevious)
+            classify.next_line_code_tags(dVars, oLine, oLinePrevious)
 
             classify.port(dVars, oLine)
             classify.generic(dVars, oLine)

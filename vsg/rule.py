@@ -129,6 +129,8 @@ class rule():
         if 'vsg_off' in oLine.codeTags:
             if len(oLine.codeTags['vsg_off']) == 0 or self.name + '_' + self.identifier in oLine.codeTags['vsg_off']:
                 return True
+        if self.name + '_' + self.identifier in oLine.nextLineCodeTags:
+            return True
         return False
 
     def get_configuration(self):

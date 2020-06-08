@@ -3,6 +3,7 @@ from .architecture import architecture
 from .assert_statement import assert_statement
 from .attribute import attribute
 from .blank import blank
+from .block import block
 from .case import case
 from .code_tags import code_tags
 from .comment import comment
@@ -18,6 +19,7 @@ from .generic import generic
 from .if_statement import if_statement
 from .instantiation import instantiation
 from .library import library
+from .next_line_code_tags import next_line_code_tags
 from .package_body import package_body
 from .package import package
 from .port import port
@@ -32,5 +34,4 @@ from .variable import variable
 from .when import when
 from .while_loop import while_loop
 from .with_statement import with_statement
-from .block import block
 from .wait import wait

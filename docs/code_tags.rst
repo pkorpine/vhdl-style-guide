@@ -69,3 +69,23 @@ Each rule can be independently enabled or disabled:
 In the previous example, the *process_016* and *process_018* are disabled for the first process.
 *Process_018* is disabled for the second process.
 No rules are disabled for the third process.
+
+Next Line Rule Exclusions
+-------------------------
+
+Rules can be disabled for a single line using the **vsg-disable-next-line** tag.
+Multiple identifiers can be added to a single tag..
+
+.. code-block:: vhdl
+
+   -- vsg-disable-next-line process_016
+   process (write, read, full) is
+   begin
+     a <= write;
+     b <= read;
+     -- vsg-disable-next-line process_018
+   end process;
+
+In the above example, process_016 will only be disabled for the line with the process keyword.
+Successive processes without labels will be flagged by process_016.
+
