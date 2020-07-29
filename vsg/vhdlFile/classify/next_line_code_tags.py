@@ -16,3 +16,7 @@ def next_line_code_tags(dVars, oLine, oLinePrevious):
         lRules = oLinePrevious.line.split()[2::]
         oLine.nextLineCodeTags = oLinePrevious.nextLineCodeTags
         oLine.nextLineCodeTags.extend(lRules)
+
+
+    if re.match('^\s*--\s*vsg-disable-next-line\s+\w', oLine.line):
+        oLine.isNextLineCodeTagCommand = True

@@ -32,3 +32,9 @@ def code_tags(dVars, oLine, oLinePrevious):
         if len(oLine.codeTags['vsg_off']) == 0:
             oLine.hasCodeTag = False
             del oLine.codeTags['vsg_off']
+
+    if re.match('^\s*--\s*vsg_on\s+\w', oLine.line):
+        oLine.isCodeTagCommand = True
+
+    if re.match('^\s*--\s*vsg_off\s+\w', oLine.line):
+        oLine.isCodeTagCommand = True

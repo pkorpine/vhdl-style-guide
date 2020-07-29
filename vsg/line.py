@@ -233,9 +233,11 @@ class line():
         # Wait attributes
         self.isWait = False
         # Code tags
+        self.isCodeTagCommand = False
         self.hasCodeTag = False
         self.codeTags = {}
         # Next Line Code Tags
+        self.isNextLineCodeTagCommand = False
         self.hasNextLineCodeTag = False
         self.nextLineCodeTags = []
         # After attributes

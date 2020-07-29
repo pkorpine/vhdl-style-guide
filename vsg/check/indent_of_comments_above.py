@@ -20,6 +20,8 @@ def indent_of_comments_above(self, oFile, iLineNumber):
         if not oFile.lines[iPreviousIndex].isComment:
             break
         else:
+            if oFile.lines[iPreviousIndex].isNextLineCodeTagCommand or oFile.lines[iPreviousIndex].isCodeTagCommand:
+                continue
             if not oFile.lines[iPreviousIndex].line.index('--') == oFile.lines[iLineNumber].indentLevel * self.indentSize:
                 dViolation = utils.create_violation_dict(iPreviousIndex)
                 dViolation['indent'] = oFile.lines[iLineNumber].indentLevel
